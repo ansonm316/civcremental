@@ -1,4 +1,4 @@
-- Very much a WIP project, updates frequently.
+A WIP Project.
 
 
 Developing Team:
